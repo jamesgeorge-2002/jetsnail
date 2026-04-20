@@ -39,9 +39,9 @@ export const CTA = () => {
             </form>
 
             <div className="mt-8 flex flex-wrap items-center justify-center gap-6 text-xs uppercase tracking-widest text-muted-foreground">
-              <span>hello@jetsnail.io</span>
+              <span>jetsnailcomapny@gmail.com</span>
               <span className="h-1 w-1 rounded-full bg-muted-foreground/50" />
-              <span>Stockholm · Remote</span>
+              <span>Phone:+91 8330014924</span>
               <span className="h-1 w-1 rounded-full bg-muted-foreground/50" />
               <span>Available Q3 2026</span>
             </div>
